@@ -1,0 +1,20 @@
+SuperKing Illegal Survival — créditos
+
+Integración, menú en español y adaptación: SrTheKing.
+
+Este addon integra y reescribe la funcionalidad de tres packs:
+- HoldToEnchant v1.2.8 (release-200926) — "Hold To Enchant — Auto Enchantment".
+  Su manifest y su código no indican el nombre del autor.
+  De él vienen el catálogo de objetos y encantamientos, los niveles y las elecciones entre encantamientos incompatibles.
+- KeepInventory v1.0.4 — autor: Mikayil022 (https://www.curseforge.com/members/mikayil022/projects).
+  De él viene la idea de controlar la regla keepInventory del mundo con un comando de administrador.
+- Creative Mode v1.2.2 — VoxenMC2 (script voxen.js).
+  De él viene el cambio personal Supervivencia/Creativo con un palo y el atajo del palo llamado "cm".
+
+Ninguno de los tres packs incluye un archivo de licencia. Los permisos de redistribución no están verificados.
+
+Menú e icono:
+- Los botones del menú usan iconos VANILLA que ya trae Minecraft
+  (textures/items/book_enchanted, totem, nether_star, redstone_dust; textures/ui/heart).
+- pack_icon.png: icono oficial proporcionado por SrTheKing. El pack no incluye otras imágenes ni texturas.
+- Mensaje de bienvenida: texto pedido por SrTheKing.
